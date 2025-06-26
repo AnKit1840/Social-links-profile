@@ -24,8 +24,8 @@ Users should be able to:
 ![](./screenshot.jpg)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://github.com/AnKit1840/Social-links-profile)
+- Live Site URL: [live site URL](https://ankit1840.github.io/Social-links-profile/)
 
 ## My process
 
