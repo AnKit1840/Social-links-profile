@@ -21,7 +21,7 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ### Screenshot
-![](./screenshot.jpg)
+![](./screenshot.png)
 ### Links
 
 - Solution URL: [solution URL](https://github.com/AnKit1840/Social-links-profile)
